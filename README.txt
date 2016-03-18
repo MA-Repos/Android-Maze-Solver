@@ -11,9 +11,7 @@ RELEASE: 6.0.1
 BRAND: google
 DISPLAY: MMB29K
 HARDWARE: hammerhead
-Build ID: MMB29K
 MANUFACTURER: LGE
-SERIAL: 061d5d3b0b10f6b4
 USER: android-build
 HOST: kpfk15.cbf.corp.google.com
 
