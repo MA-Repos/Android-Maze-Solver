@@ -1,7 +1,5 @@
 Name: Mir Abbas
-Student no.: 100956642
 Purpose: android app for maze path finding
-
 
 Tested on Nexus 5
 Device Info:
